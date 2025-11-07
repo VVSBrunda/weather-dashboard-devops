@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  backend:
+    build: ./weather-app
+    ports:
+      - "8080:8080"
+  frontend:
+    build: ./frontend
+    ports:
+      - "8082:80"

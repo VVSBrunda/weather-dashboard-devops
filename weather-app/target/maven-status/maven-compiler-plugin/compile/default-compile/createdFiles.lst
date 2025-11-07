@@ -1,0 +1,5 @@
+com\weather\dashboard\repository\CityRepository.class
+com\weather\dashboard\service\WeatherService.class
+com\weather\dashboard\controller\WeatherController.class
+com\weather\dashboard\model\City.class
+com\weather\dashboard\WeatherDashboardApplication.class
