@@ -15,4 +15,4 @@ jobs:
       - name: Build Spring Boot backend
         run: |
           cd weather-app
-          ./mvnw clean package
+          mvn clean package
